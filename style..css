@@ -1,0 +1,10 @@
+.box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #F3D7B7;
+}
+.box2 h2{ 
+    text-align: center;
+}
+ 
